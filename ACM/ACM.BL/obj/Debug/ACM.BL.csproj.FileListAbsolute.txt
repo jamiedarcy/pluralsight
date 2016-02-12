@@ -1,0 +1,5 @@
+C:\Users\jdarcy\OneDrive\College\Software development and process management\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+C:\Users\jdarcy\OneDrive\College\Software development and process management\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+C:\Users\jdarcy\OneDrive\College\Software development and process management\ACM\ACM.BL\obj\Debug\ACM.BL.csprojResolveAssemblyReference.cache
+C:\Users\jdarcy\OneDrive\College\Software development and process management\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+C:\Users\jdarcy\OneDrive\College\Software development and process management\ACM\ACM.BL\obj\Debug\ACM.BL.pdb

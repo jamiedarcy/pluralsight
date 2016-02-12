@@ -1,0 +1,9 @@
+C:\Users\jdarcy\OneDrive\College\Software development and process management\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.csprojResolveAssemblyReference.cache
+C:\Users\jdarcy\OneDrive\College\Software development and process management\ACM\ACM.BLTest\bin\Debug\ACM.BLTest.dll
+C:\Users\jdarcy\OneDrive\College\Software development and process management\ACM\ACM.BLTest\bin\Debug\ACM.BLTest.pdb
+C:\Users\jdarcy\OneDrive\College\Software development and process management\ACM\ACM.BLTest\bin\Debug\ACM.BL.dll
+C:\Users\jdarcy\OneDrive\College\Software development and process management\ACM\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jdarcy\OneDrive\College\Software development and process management\ACM\ACM.BLTest\bin\Debug\ACM.BL.pdb
+C:\Users\jdarcy\OneDrive\College\Software development and process management\ACM\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\jdarcy\OneDrive\College\Software development and process management\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.dll
+C:\Users\jdarcy\OneDrive\College\Software development and process management\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.pdb
